@@ -1,0 +1,18 @@
+{
+  "account": "coder",
+  "key": "uwDB153SAJI32123WUqwu42devbdc213",
+  "delay": 50,
+  "page_size": "50",
+  "coefficient": 4.0,
+  "stickers_max_price": 9999.0,
+  "stickers_discount": -2.0,
+  "float_max_price": 999.0,
+  "float_discount": 20.0,
+  "sticker_base_path": "Sticker_price.db",
+  "coefficient_settings_path": "coeff.json",
+  "float_db_path_FN": "Float_FN.db",
+  "float_db_path_MW": "Float_MW.db",
+  "float_db_path_FT": "Float_FT.db",
+  "float_db_path_WW": "Float_WW.db",
+  "float_db_path_BS": "Float_BS.db"
+}
